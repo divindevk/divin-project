@@ -1,0 +1,306 @@
+body{
+    background-image: url("img8.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -53PX;
+    margin-left: -3px;
+
+
+
+#l11{
+width: 1323px;
+height: 85px;
+background: linear-gradient(darkblue,greenyellow);
+border-style: solid;
+border-style: groove;
+padding: 20px;
+text-align: center;
+margin-top: 50PX;
+}
+
+
+
+
+h2{
+    color: black;
+    text-align: center;
+padding: 20px;
+
+}
+
+h2 a{
+   
+color: bisque;
+    text-decoration: none;
+    width: 20px;
+    height: 15px;
+    border-style: groove;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+   
+    
+}
+.l3{
+    background-color: white;
+    width: 500px;
+    height: 410px;
+    color: blueviolet;
+    border-style: solid;
+    border-radius: 15px;
+    margin-left: 150px;
+}
+form{ 
+    
+    text-align: center;
+}
+#l4{
+    background-color: aliceblue;
+    width: 400px;
+    height: 400px;
+    border-style:solid;
+    border-radius: 20px;
+            background: linear-gradient(darkblue,greenyellow);
+    
+}
+#l5{
+    background-color: aliceblue;
+    width: 400px;
+    height: 400px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: -400px;
+    margin-left: 850px;
+background: linear-gradient(darkblue,greenyellow);
+}
+#l6{
+    background-color: aliceblue;
+    width: 400px;
+    height: 400px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: -400px;
+    margin-left: 430px;
+            background: linear-gradient(darkblue,greenyellow);
+}
+#l13{ 
+    background-color: aliceblue;
+    width: 500px;
+    height: 400px;
+    border-style: solid;
+    border-radius: 20px;
+            background: linear-gradient(darkblue,greenyellow);
+
+
+}
+#l14{
+     background-color: aliceblue;
+    width: 500px;
+    height: 400px;
+    border-style: solid;
+    border-radius: 20px;
+     margin-top: -400px;
+       margin-left: 700px;
+               background: linear-gradient(darkblue,greenyellow);
+}
+p{ 
+    text-align: center;
+}
+#l12{
+    background-color: aliceblue;
+    width: 900px;
+    height: 420px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-left: 200px;
+    padding: 20px ; 
+            background: linear-gradient(darkblue,greenyellow);  }
+
+    #l17{
+    
+        width: 600px;
+        height: 360px;
+        border-style: groove;
+        padding: 30px;
+        margin-left: 300px;
+        border-radius: 50px;
+        background: linear-gradient(darkblue,greenyellow);
+    }
+    footer{
+        width: 100px
+        height: 80px
+        border-style: groove;
+        margin-left: 3px;
+        margin-bottom: -50px;
+        margin-left: -7px;
+        text-align: center;
+        background-color: #053925;
+        color: aliceblue;
+    }
+    #l20{
+     background: linear-gradient(darkblue,greenyellow);
+        width: 500px;
+        height: 406px;
+        border-style: solid;
+        margin-top: 50px;
+        text-align: center;
+        padding: 7px;
+        border-radius: 40px;
+        margin-left: 400px;
+        padding: 20px;
+
+    }
+    input{
+        border-radius: 20px;
+    }
+    #l18{
+      width: 500px;
+        height: 60px;
+  border-style: groove;
+margin-left: 430px;
+
+ background: linear-gradient(darkblue,greenyellow);
+margin-top: -25px;
+border-radius: 20px;
+color: bisque;
+    }
+    #l19{
+        width: 300px;
+        height: 350px;
+        border-style: solid;
+        background: linear-gradient(darkblue,greenyellow);
+        border-radius: 20px;
+          }
+
+#l21{
+    width: 300px;
+    height: 350px;
+    border-style: solid;
+     background: linear-gradient(darkblue,greenyellow);
+     border-radius: 20px;
+     margin-top: -350px;
+     margin-left: 1000px;
+}
+
+#l22{
+     width: 300px;
+    height: 350px;
+    border-style: solid;
+     background: linear-gradient(darkblue,greenyellow);
+     border-radius: 20px;
+     margin-top: -350px;
+     margin-left: 660px;
+}
+
+#l23{
+     width: 300px;
+    height: 350px;
+    border-style: solid;
+     background: linear-gradient(darkblue,greenyellow);
+     border-radius: 20px;
+     margin-top: -350px;
+     margin-left: 320px;
+}
+#l24{
+
+    width: 500px;
+    height: 400px;
+    border-style: solid;
+     background: linear-gradient(darkblue,greenyellow);
+     margin-left: 50px;
+     border-radius: 20px;
+}
+#l30{
+    width: 400px;
+    height: 250px;
+    border-style: solid;
+     background: linear-gradient(darkblue,greenyellow);
+     margin-left: 800px;
+     border-radius: 20px;
+     margin-top: -230px;
+}
+#l31{
+     width: 400px;
+    height: 150px;
+    border-style: solid;
+     background: linear-gradient(darkblue,greenyellow);
+     margin-left: 800px;
+     border-radius: 20px;
+     margin-top: -430px;
+}
+#l25{
+
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    background: linear-gradient(darkblue,greenyellow);
+    border-radius: 20px;
+
+}
+#l26{
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    background: linear-gradient(darkblue,greenyellow);
+    border-radius: 20px;
+    margin-top: -250px;
+    margin-left: 500px;
+
+}
+#l27{
+     width: 300px;
+    height: 250px;
+    border-style: solid;
+    background: linear-gradient(darkblue,greenyellow);
+    border-radius: 20px;
+    margin-top: -210px;
+    margin-left: 500px;
+
+}
+    
+ #l28{
+    width: 700px;
+    height: 250px;
+    border-style: solid;
+    background: linear-gradient(darkblue,greenyellow);
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-left: -200;
+
+    
+ }   
+    
+ #l29{
+    width: 500px;
+    height: 400px;
+    border-style: solid;
+    background: linear-gradient(darkblue,greenyellow);
+    border-radius: 20px;
+    margin-top: 45px;
+    
+
+ }   
+ #l32{
+     width: 500px;
+    height: 250px;
+    border-style: solid;
+    background: linear-gradient(darkblue,greenyellow);
+    border-radius: 20px;
+    margin-top: -250px;
+    margin-left: 800px;
+ }
+img{
+    transition: 3s;
+}
+img:hover{
+    width: 200px;
+    height: 150px;
+}
+
+
+
+     
+
+
